@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richmondcahvac.com/sitemap.xml
